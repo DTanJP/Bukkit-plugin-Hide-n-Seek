@@ -1,0 +1,8 @@
+name: HideNSeek
+main: dt.hns.HNSMain
+version: 2.0
+commands:
+     hns:
+         description: /hns <lobby:ready:start:quit>
+     getplayers:
+         description: Hide N Seek debugging purposes
